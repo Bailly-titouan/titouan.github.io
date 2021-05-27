@@ -41,13 +41,13 @@ A simple runner
 
 A simple runner
 
-### Ray-Cast Unity (Solo project | language : C)
+### Ray-Cast Unity (Solo project | language : C# | Editor : Unity)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
 A simple runner
 
-### Dodge-it (Solo project | language : C)
+### Dodge-it (Solo project | language : C | Editor : Unity)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
