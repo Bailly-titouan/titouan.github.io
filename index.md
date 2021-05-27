@@ -58,6 +58,15 @@ A simple runner
 - [ ] Skill tree
 - [ ] Upgrade level design
 
+## Skills
+
+Throughout my 2 years at Epitech, I had the chance to come across a lot of programming language and different software.
+Main skills | Good knowledge | To practice / Want to learn
+------------ | ------------- | ---------------------------
+C++ (My favorite language so far) | Unity | Unreal Engine
+C | JavaScript / Html / Css | Blender
+Git | ---- | PhotoShop
+
 ## Contact
 
 __Mail : titouanbailly@outlook.fr__<br>
