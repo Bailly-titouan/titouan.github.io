@@ -1,8 +1,8 @@
-## Hi i'am Titouan and this is a sum up of what i've done so far!
+### Hi i'am Titouan and this is a sum up of what i've done so far!
 
-Some little details about me :
-I'am a young 19 years old developer, my first 2 years at Epitech introduced me to the C and C++ language but that was not enough for me.
-As far as i can tell i allways wanted to be a game developer, wich is why i took a lot of pleasur working on graphcals project such as a runner, an arcade machine or some personnal project on unity (more on that later).
+# Some little details about me :
+# I'am a young 19 years old developer, my first 2 years at Epitech introduced me to the C and C++ language but that was not enough for me.
+# As far as i can tell i allways wanted to be a game developer, wich is why i took a lot of pleasur working on graphcals project such as a runner, an arcade machine or some personnal project on unity (more on that later).
 
 ### Markdown
 
