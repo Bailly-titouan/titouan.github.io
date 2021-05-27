@@ -8,7 +8,7 @@ First Year | Second Year
 ------------ | -------------
 Test1 | Test 2
 Test1 | Test 2
-      | Test 2
+----- | Test 2
 
 ### Markdown
 
