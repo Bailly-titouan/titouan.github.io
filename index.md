@@ -10,7 +10,7 @@ My_runner | Arcade
 My_rpg | Ray-Cast Unity
        | Dodge-it
 
-![Image of my_runner](https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png =250x250)
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" width="250" height="250">
 
 ### Markdown
 
