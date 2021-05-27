@@ -57,3 +57,8 @@ A simple runner
 - [ ] Fluidify gameplay
 - [ ] Skill tree
 - [ ] Upgrade level design
+
+## Contact
+
+__titouanbailly@outlook.fr__
+__Mobile : 06.21.91.18.42__
