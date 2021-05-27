@@ -15,19 +15,39 @@ My_rpg | Dodge-it
  
 ## First Year :
 
+### My_hunter (Solo project | language : C)
+
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_2.png" height="220">
+
+A simple runner
+
 ### My_runner (Solo project | language : C)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
 A simple runner
 
-### My_runner (Solo project | language : C)
+### My_rpg (Group project | language : C)
+
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_rpg_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_rpg_2.png" height="220">
+
+A simple runner
+
+## Second Year :
+
+### Arcade (Groupe project | language : C++)
+
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/arcade_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/arcade_2.png" height="220">
+
+A simple runner
+
+### Ray-Cast Unity (Solo project | language : C)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
 A simple runner
 
-### My_runner (Solo project | language : C)
+### Dodge-it (Solo project | language : C)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
