@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi i'am Bailly Titouan and this is a sum up of what i've done so far!
 
 You can use the [editor on GitHub](https://github.com/Bailly-titouan/titouan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
