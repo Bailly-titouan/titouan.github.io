@@ -60,5 +60,5 @@ A simple runner
 
 ## Contact
 
-__titouanbailly@outlook.fr__
+__Mail : titouanbailly@outlook.fr__<br>
 __Mobile : 06.21.91.18.42__
