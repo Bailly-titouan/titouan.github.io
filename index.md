@@ -51,6 +51,9 @@ A simple runner
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] Base Gameplay
+- [x] UI
+- [ ] Start menu / pause menu
+- [ ] Fluidify gameplay
+- [ ] Skill tree
+- [ ] Upgrade level design
