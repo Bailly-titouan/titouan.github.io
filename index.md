@@ -1,4 +1,4 @@
-# Hi I am Titouan and this is a sum up of what i've done so far!
+# Hi I am Titouan and this is a sum up of what I have done so far!
 
 ### Some little details about me :
 I am a young 19 years old developer. I have been studying at Epitech for 2 years and it introduced me to the C and C++ language, but that was not enough for me.
@@ -70,7 +70,7 @@ Git | SFML
 
 # Specification :
 
-__C++__ : My faforite language so far. Easy to learn, it's a low level language which means that the developers have a lot of freedom to experiment and enjoy and it is used to develop game under Unreal Engine 4 so it's a big plus.
+__C++__ : My favorite language so far. Easy to learn, it's a low level language which means that the developers have a lot of freedom to experiment and enjoy and it is used to develop game under Unreal Engine 4 so it's a big plus.
 
 __Unreal Engine 4__ : The next software I will train and use. I allready used it a long time ago but I never took the time to really build a project on this software. It looks powefull, the last time i used it seemed user friendly to me and you can developp with C++ so a huge plus for this software.
 
