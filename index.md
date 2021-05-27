@@ -1,8 +1,8 @@
-## Hi i'am Bailly Titouan and this is a sum up of what i've done so far!
+## Hi i'am Titouan and this is a sum up of what i've done so far!
 
-You can use the [editor on GitHub](https://github.com/Bailly-titouan/titouan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some little details about me :
+I'am a young 19 years old developer, my first 2 years at Epitech introduced me to the C and C++ language but that was not enough for me.
+As far as i can tell i allways wanted to be a game developer, wich is why i took a lot of pleasur working on graphcals project such as a runner, an arcade machine or some personnal project on unity (more on that later).
 
 ### Markdown
 
