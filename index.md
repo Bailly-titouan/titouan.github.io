@@ -64,7 +64,7 @@ Throughout my 2 years at Epitech, I had the chance to come across a lot of progr
 
 Main skills | Good knowledge
 ------------ | -------------
-C++ (My favorite language so far) | Unity
+C++ | Unity
 C | JavaScript / Html / Css
 Git | SFML
 
