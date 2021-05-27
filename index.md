@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+# Hi I am Titouan and this is a sum up of what i've done so far!
 
-You can use the [editor on GitHub](https://github.com/Bailly-titouan/titouan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Some little details about me :
+I am a young 19 years old developer. I have been studying at Epitech for 2 years and it introduced me to the C and C++ language, but that was not enough for me.
+As far as I can tell, I always wanted to be a game developer, and that's the reason why I really enjoyed working on graphcal projects such as a runner, an arcade machine or some personnal projects on Unity, I will explain that further.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+First Year | Second Year
+------------ | -------------
+My_runner | Arcade
+My_rpg | Ray-Cast Unity
+       | Dodge-it
 
 ### Markdown
 
