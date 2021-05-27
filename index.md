@@ -15,11 +15,12 @@ My_rpg | Ray-Cast Unity
  
 ## First Year :
 
+### My_runner (Solo project | language : C)
+
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
-### Markdown
+A simple runner
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
