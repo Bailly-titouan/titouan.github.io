@@ -61,11 +61,14 @@ A simple runner
 ## Skills
 
 Throughout my 2 years at Epitech, I had the chance to come across a lot of programming language and different software.
-Main skills | Good knowledge | To practice / Want to learn
------------- | ------------- | ---------------------------
-C++ (My favorite language so far) | Unity | Unreal Engine
-C | JavaScript / Html / Css | Blender
-Git | ---- | PhotoShop
+
+Main skills | Good knowledge
+------------ | -------------
+C++ (My favorite language so far) | Unity
+C | JavaScript / Html / Css
+Git | ----
+
+
 
 ## Contact
 
