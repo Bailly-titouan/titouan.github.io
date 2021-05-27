@@ -60,7 +60,7 @@ A simple runner
 
 ## Skills
 
-Throughout my 2 years at Epitech, I had the chance to come across a lot of programming language and different software.
+Throughout my 2 years at Epitech, I had the chance to come across a lot of programming languages and different softwares.
 
 Main skills | Good knowledge
 ------------ | -------------
@@ -70,11 +70,11 @@ Git | SFML
 
 # Specification :
 
-__C++__ : My favorite language so far. Easy to learn, it's a low level language which means that the developers have a lot of freedom to experiment and enjoy and it is used to develop game under Unreal Engine 4 so it's a big plus.
+__C++__ : My favorite language so far. Easy to learn, it's a low level language which means that the developers have a lot of freedom to experiment and enjoy and it is used to develop games under Unreal Engine 4 so it's a big plus.
 
-__Unreal Engine 4__ : The next software I will train and use. I allready used it a long time ago but I never took the time to really build a project on this software. It looks powefull, the last time i used it seemed user friendly to me and you can developp with C++ so a huge plus for this software.
+__Unreal Engine 4__ : The next software I will learn and use. I already used it a long time ago but I never took the time to really build a project on this software. It looks powerful, the last time i used it, it seemed user friendly to me and you can developp with C++ so a huge plus for this software.
 
-__Blender / PhotoShop__ : Two software generally used by the graphics designer but I won't mind to have some knowledge on them since I am working on personnal project and plan to work on 3d game in the future. So two software that I will definitly train.
+__Blender / PhotoShop__ : Two softwares generally used by the graphic designers but I won't mind to have some knowledge on them since I am working on personal projects and plan to work on 3D games in the future. So two softwares that I will definitely learn.
 
 
 ## Contact
