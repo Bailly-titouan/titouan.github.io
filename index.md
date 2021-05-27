@@ -8,12 +8,24 @@ As far as I can tell, I always wanted to be a game developer, and that's the rea
 
 First Year | Second Year
 ------------ | -------------
-My_runner | Arcade
-My_rpg | Ray-Cast Unity
-       | Dodge-it
+My_hunter | Arcade
+My_runner | Ray-Cast Unity
+My_rpg | Dodge-it
  
  
 ## First Year :
+
+### My_runner (Solo project | language : C)
+
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
+
+A simple runner
+
+### My_runner (Solo project | language : C)
+
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
+
+A simple runner
 
 ### My_runner (Solo project | language : C)
 
