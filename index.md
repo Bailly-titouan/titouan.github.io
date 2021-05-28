@@ -82,7 +82,7 @@ __Unreal Engine 4__ : The next software I will learn and use. I already used it 
 __Blender / PhotoShop__ : Two softwares generally used by the graphic designers but I won't mind to have some knowledge on them since I am working on personal projects and plan to work on 3D games in the future. So two softwares that I will definitely learn.
 
 
-## Contact
+### Contact
 
 __Mail : titouanbailly@outlook.fr__<br>
 __Mobile : 06.21.91.18.42__
