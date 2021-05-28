@@ -19,7 +19,7 @@ My_rpg | Dodge-it
 
 ### My_hunter (Solo project | Language: C)
 
-<img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_2 .png" height="220">
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_2.png" height="220">
 
 Here is my first graphical project in C. A simple duck hunt with nothing really amazing in it, but it  is still my first project. I learned a lot about the CSFML library and the C language.
 
