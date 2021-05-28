@@ -1,4 +1,4 @@
-# Hi I am Titouan and this is a sum up of what I have done so far!
+# Hi, I am Titouan and this is a sum up of what I have done so far!
 
 ### About me:
 I am a 19 years old developer. I have been studying at Epitech for 2 years and it introduced me to the C and C++ language, but that was not enough for me.
