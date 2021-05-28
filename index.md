@@ -85,4 +85,5 @@ __Blender / PhotoShop__ : Two softwares generally used by the graphic designers 
 # Contact
 
 __Mail : titouanbailly@outlook.fr__<br>
-__Mobile : 06.21.91.18.42__
+__Mobile : 06.21.91.18.42__<br>
+__Discord : Titouan#4680__
