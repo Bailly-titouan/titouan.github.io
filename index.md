@@ -45,13 +45,13 @@ This project is the project I really enjoyed spending time on. We had to develop
 
 ### Ray-Cast Unity (Solo project | Language : C# | Editor : Unity)
 
-<img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/Ray-cast_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/Ray-cast_2.png" height="220">
 
 This project was born during an experimental project. "What is an experimental project" would you say, it is a week at Epitech used by student to developp a project using technologies we were not used to use at Epitech, this is why I decided to work on a 3D project in unity. Using Ray-cast I tried to reproduce the field of view of a person allowing the creation of really simple stealth game. I also learned how to use more features on Unity3D.
 
 ### Dodge-it (Solo project | Language : C | Editor : Unity)
 
-<img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/dodge_it_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/dodge_it_2.png" height="220">
 
 Allow me to introduce you to Dodge-it, a project born because I always loved a game named "OSU!" and that i always wanted to developp a real 2D game. I have a lot of faith in this project and lot of idea for it, as a fan of the rogue-like and rhythm games, I want to merge those two types of game into one to allow fast and enjoyable rounds. A lot more is coming up for this game so feel free to contact me for more information or advice, I would love to hear them !
 
@@ -59,6 +59,7 @@ Allow me to introduce you to Dodge-it, a project born because I always loved a g
 - [x] UI
 - [x] Start menu / pause menu
 - [ ] Fluidify gameplay
+- [ ] Add some lights
 - [ ] Add rhythm into the game
 - [ ] Add Upgrades and a skill tree
 - [ ] Upgrade the level design
