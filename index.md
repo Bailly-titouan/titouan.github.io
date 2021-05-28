@@ -21,19 +21,19 @@ My_rpg | Dodge-it
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_2.png" height="220">
 
-Here is my first graphical project in C. A simple duck hunt with nothing really amazing in it, but it  is still my first project and he taught me a lot about the CSFML lib and the C language.
+Here is my first graphical project in C. A simple duck hunt with nothing really amazing in it, but it  is still my first project and he taught me a lot about the CSFML library and the C language.
 
 ### My_runner (Solo project | language : C)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
-Here is my second graphical project in C. I had to develop a runner using parralax and a map on a txt file but I rapidly figured out that genereting the obstacles was way more powerfull than using a map. I used to develop without taking the computer's performence into account, whitch means that with a better computer the player would run way faster than it should do.
+Here is my second graphical project in C. I had to develop a runner using parralax and a map on a txt file but I rapidly figured out that genereting the obstacles was way more powerful than using a map. I used to develop without taking the computer's performence into account, whitch means that with a better computer the player would run way faster than it should do.
 
 ### My_rpg (Group project | language : C)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_rpg_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_rpg_2.png" height="220">
 
-One of my biggest project in C so far, but not my favorite. We were a group of 4 peoples with a lot of ambition, it leads to a lot of problem and a lot of feature either present or really bad. Even if this project is not my favorite it taught me a lot about working as a group. 
+One of my biggest project in C so far, but not my favorite. We were a group of 4 peoples which a lot of ambition, it leads to a lot of problem and a lot of feature either present or really bad. Even if this project is not my favorite it taught me a lot about working as a group. 
 
 ## Second Year :
 
@@ -41,7 +41,7 @@ One of my biggest project in C so far, but not my favorite. We were a group of 4
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/arcade_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/arcade_2.png" height="220">
 
-This project is one of the first porject where I really enjoyed spending time on. We had to developp an arcade machine using 3 different graphics libraries, let me explain. The real goal of this project was to teach us the effectivness of the object-oriented programming. Using classes we managed to developp 2 games working on 3 different graphicals librairies which would have been impossible a year ago. I worked on implemanting the SDL library and the nibbler game.
+This project is the project where I really enjoyed spending time on. We had to developp an arcade machine using 3 different graphics libraries, let me explain. The real goal of this project was to teach us the effectiveness of the object-oriented programming. Using classes we managed to developp 2 games working on 3 different graphicals librairies which would have been impossible a year ago. I worked on implemanting the SDL library and the nibbler game.
 
 ### Ray-Cast Unity (Solo project | language : C# | Editor : Unity)
 
@@ -53,8 +53,7 @@ This project was born during an experimental project. What is an experimental wo
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
-Allow me to introduce you to dodge-it, a project born because I allways loved a game named "OSU!" and that i allways wanted to developp a real 2D game. I have a lot of hope in this project and lot of idea for it, as a fan of the rogue-like and rhythm games, i want to merge those two types of game into to allow fast and enjoyable round on this game. A lot more is coming up for this game. 
-Feel free to contact me for more information or advice, I would love to hear them !
+Allow me to introduce you to Dodge-it, a project born because I allways loved a game named "OSU!" and that i allways wanted to developp a real 2D game. I have a lot of hope in this project and lot of idea for it, as a fan of the rogue-like and rhythm games, i want to merge those two types of game into one to allow fast and enjoyable round on this game. A lot more is coming up for this game so feel free to contact me for more information or advice, I would love to hear them !
 
 - [x] Base Gameplay
 - [x] UI
