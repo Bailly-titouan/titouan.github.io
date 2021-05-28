@@ -15,7 +15,7 @@ My_rpg | Dodge-it
 (All of my first project in C are not yet available on github since we were using blih at the time)
  
  
-## First Year :
+## First Epitech Year :
 
 ### My_hunter (Solo project | language : C)
 
@@ -35,7 +35,7 @@ Here is my second graphical project in C. I had to develop a runner using parral
 
 One of my biggest project in C so far, but not my favorite. We were a group of 4 peoples which a lot of ambition, it leads to a lot of problem and a lot of feature either present or really bad. Even if this project is not my favorite it taught me a lot about working as a group. 
 
-## Second Year :
+## Second Epitech Year :
 
 ### Arcade (Groupe project | language : C++)
 
