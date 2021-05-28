@@ -17,19 +17,19 @@ My_rpg | Dodge-it
  
 ## First Epitech Year :
 
-### My_hunter (Solo project | language : C)
+### My_hunter (Solo project | Language : C)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_hunter_2.png" height="220">
 
 Here is my first graphical project in C. A simple duck hunt with nothing really amazing in it, but it  is still my first project. I learned a lot about the CSFML library and the C language.
 
-### My_runner (Solo project | language : C)
+### My_runner (Solo project | Language : C)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
 Here is my second graphical project in C. I had to develop a runner using parralax and a map on a txt file but I rapidly figured out that genereting the obstacles was way more powerful than using a map. I used to develop without taking the computer's performence into account, which means that with a better computer the player would run way faster than it should do.
 
-### My_rpg (Group project | language : C)
+### My_rpg (Group project | Language : C)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_rpg_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_rpg_2.png" height="220">
 
@@ -37,19 +37,19 @@ One of my biggest project in C so far, but not my favorite. We were a group of 4
 
 ## Second Epitech Year :
 
-### Arcade (Groupe project | language : C++)
+### Arcade (Groupe project | Language : C++)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/arcade_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/arcade_2.png" height="220">
 
 This project is the project I really enjoyed spending time on. We had to develop an arcade machine using 3 different graphics libraries, let me explain. The real goal of this project was to teach us the effectiveness of the object-oriented programming. Using classes we managed to developp 2 games working on 3 different graphicals librairies which would have been impossible a year ago. I worked on implemanting the SDL library and the nibbler game.
 
-### Ray-Cast Unity (Solo project | language : C# | Editor : Unity)
+### Ray-Cast Unity (Solo project | Language : C# | Editor : Unity)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
 This project was born during an experimental project. "What is an experimental project" would you say, it is a week at Epitech used by student to developp a project using technologies we were not used to use at Epitech, this is why I decided to work on a 3D project in unity. Using Ray-cast I tried to reproduce the field of view of a person allowing the creation of really simple stealth game. I also learned how to use more features on Unity3D.
 
-### Dodge-it (Solo project | language : C | Editor : Unity)
+### Dodge-it (Solo project | Language : C | Editor : Unity)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
