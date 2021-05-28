@@ -63,7 +63,7 @@ Allow me to introduce you to Dodge-it, a project born because I allways loved a 
 - [ ] Add Upgrade and skill tree
 - [ ] Upgrade the level design
 
-## Skills
+# Skills
 
 Throughout my 2 years at Epitech, I had the chance to come across a lot of programming languages and different softwares.
 
@@ -73,7 +73,7 @@ C++ | Unity
 C | JavaScript / Html / Css
 Git | SFML
 
-# Specification :
+## Specification :
 
 __C++__ : My favorite language so far. Easy to learn, it's a low level language which means that the developers have a lot of freedom to experiment and enjoy and it is used to develop games under Unreal Engine 4 so it's a big plus.
 
