@@ -51,7 +51,7 @@ This project was born during an experimental project. "What is an experimental p
 
 ### Dodge-it (Solo project | Language : C | Editor : Unity)
 
-<img src="https://bailly-titouan.github.io/titouan.github.io/Images/dodg-it_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/dodg-it_2.png" height="220">
+<img src="https://bailly-titouan.github.io/titouan.github.io/Images/Dodge-it_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/Dodge-it_2.png" height="220">
 
 Allow me to introduce you to Dodge-it, a project born because I always loved a game named "OSU!" and that i always wanted to developp a real 2D game. I have a lot of faith in this project and lot of idea for it, as a fan of the rogue-like and rhythm games, I want to merge those two types of game into one to allow fast and enjoyable rounds. A lot more is coming up for this game so feel free to contact me for more information or advice, I would love to hear them !
 
