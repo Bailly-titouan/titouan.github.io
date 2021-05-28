@@ -11,6 +11,8 @@ First Year | Second Year
 My_hunter | Arcade
 My_runner | Ray-Cast Unity
 My_rpg | Dodge-it
+
+(All of my first project in C are not yet available on github since we were using blih at the time)
  
  
 ## First Year :
@@ -25,13 +27,13 @@ Here is my first graphical project in C. A simple duck hunt with nothing really 
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
-A simple runner
+Here is my second graphical project in C. I had to develop a runner using parralax and a map on a txt file but I rapidly figured out that genereting the obstacles was way more powerfull than using a map. I used to develop without taking the computer's performence into account, whitch means that with a better computer the player would run way faster than it should do.
 
 ### My_rpg (Group project | language : C)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_rpg_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_rpg_2.png" height="220">
 
-A simple runner
+One of my biggest project in C so far, but not my favorite. We were a group of 4 peoples with a lot of ambition, it leads to a lot of problem and a lot of feature either present or really bad. Even if this project is not my favorite it taught me a lot about working as a group. 
 
 ## Second Year :
 
@@ -39,24 +41,28 @@ A simple runner
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/arcade_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/arcade_2.png" height="220">
 
-A simple runner
+This project is one of the first porject where I really enjoyed spending time on. We had to developp an arcade machine using 3 different graphics libraries, let me explain. The real goal of this project was to teach us the effectivness of the object-oriented programming. Using classes we managed to developp 2 games working on 3 different graphicals librairies which would have been impossible a year ago. I worked on implemanting the SDL library and the nibbler game.
 
 ### Ray-Cast Unity (Solo project | language : C# | Editor : Unity)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
-A simple runner
+This project was born during an experimental project. What is an experimental would you say, it is a week at Epitech used by student to developp a project using technologies we were not used to use at Epitech, this is why i decided to work on some 3D project in unity. Using Ray-cast i tried to reproduce the field of view of a person allowing the creation of really simple but very interesting, for me, stealth game.
 
 ### Dodge-it (Solo project | language : C | Editor : Unity)
 
 <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_1.png" height="220"> | <img src="https://bailly-titouan.github.io/titouan.github.io/Images/my_runner_2.png" height="220">
 
+Allow me to introduce you to dodge-it, a project born because I allways loved a game named "OSU!" and that i allways wanted to developp a real 2D game. I have a lot of hope in this project and lot of idea for it, as a fan of the rogue-like and rhythm games, i want to merge those two types of game into to allow fast and enjoyable round on this game. A lot more is coming up for this game. 
+Feel free to contact me for more information or advice, I would love to hear them !
+
 - [x] Base Gameplay
 - [x] UI
-- [ ] Start menu / pause menu
+- [x] Start menu / pause menu
 - [ ] Fluidify gameplay
-- [ ] Skill tree
-- [ ] Upgrade level design
+- [ ] Add rhytm into the game
+- [ ] Add Upgrade and skill tree
+- [ ] Upgrade the level design
 
 ## Skills
 
